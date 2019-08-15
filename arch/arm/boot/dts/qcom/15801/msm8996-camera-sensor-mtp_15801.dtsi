@@ -153,7 +153,7 @@
 		qcom,led-flash-src = <&led_flash0>;
 		qcom,eeprom-src = <&eeprom0>;
 		qcom,actuator-src = <&actuator0>;
-		qcom,ois-src = <&ois0>;
+		// qcom,ois-src = <&ois0>;
 		cam_vdig-supply = <&pm8994_l3>;
 		cam_vio-supply = <&pm8994_lvs1>;
 		cam_vana-supply = <&pm8994_l17>;
